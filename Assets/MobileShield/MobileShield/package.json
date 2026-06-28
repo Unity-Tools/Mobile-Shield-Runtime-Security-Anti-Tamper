@@ -1,0 +1,26 @@
+{
+  "name": "com.4monks.mobileshield",
+  "version": "1.0.0",
+  "displayName": "Mobile Shield",
+  "description": "Runtime Application Self-Protection (RASP) for Mobile. Detects root, popular hooking frameworks, debuggers, emulators, app tampering, unofficial installs and developer options — all via native C++ with no external dependencies.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "security",
+    "Mobile",
+    "rasp",
+    "root-detection",
+    "hooking-detection",
+    "anti-tampering",
+    "anti-debug",
+    "emulator-detection",
+    "native",
+    "runtime-protection"
+  ],
+  "category": "Security",
+  "author": {
+    "name": "4Monks",
+    "email": "lailaahmed18@outlook.com"
+  },
+  "dependencies": {}
+}
